@@ -19,7 +19,7 @@
     align-items: center;
 }
 
-.containers{
+.container{
     margin-top: 10px;
     grid-template-columns: 1fr 1fr 1fr;
     display: grid;
@@ -43,4 +43,23 @@
 .item-2{
     grid-column-start: 1;
     grid-column-end: 4;
+}
+
+.img-1{
+    width: 400px;
+}
+.img-2{
+    width: 300px;
+}
+
+.img-3{
+    width: 400px;
+}
+
+.img-4{
+    width: 600px;
+}
+
+.img-5{
+    width: 400px;
 }
